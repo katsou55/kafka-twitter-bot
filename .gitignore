@@ -25,3 +25,6 @@ out
 
 # scala worksheet
 .*.sc
+
+#properties files
+*.properties
