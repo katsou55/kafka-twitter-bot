@@ -1,0 +1,27 @@
+# scala
+project/
+target/*
+*.class
+.ensime
+.ensime_cache/
+parquet/
+
+# intelij
+.idea/*
+
+*.iml
+*.ipr
+*.iws
+.idea
+out
+
+# vim
+.*.swp
+.*.swo
+*~
+
+# mac
+.DS_Store
+
+# scala worksheet
+.*.sc
